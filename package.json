@@ -1,0 +1,23 @@
+{
+  "name": "kdmeubichinho",
+  "version": "1.0.0",
+  "description": "Plataforma para ajudar encontrar seu pet",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopulis/KdMeuBichinho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunopulis/KdMeuBichinho/issues"
+  },
+  "homepage": "https://github.com/brunopulis/KdMeuBichinho#readme",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
